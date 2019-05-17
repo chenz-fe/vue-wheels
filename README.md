@@ -1,7 +1,5 @@
 # vue-wheels
 
-[toc]
-
 ## MiniVueRouter
 
 这是一个超级精简版的VueRouter，实现hash模式下，hash改变组件切换的功能，原理就是利用了 Vue.js 的响应式机制触发router-view组件的重新渲染。
@@ -15,6 +13,7 @@ https://github.com/dora-zc/vue-wheels/tree/master/MiniVueRouter
 
 .
 ├── index.html
+
 └── myVueRouter.js
 
 路由在模板中的用法应该是下面这样：
