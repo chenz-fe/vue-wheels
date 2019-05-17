@@ -8,7 +8,7 @@
 后续可能还会扩充一些功能，例如插件安装方法，路由钩子函数，增加history模式支持等。
 
 ### 代码
-https://github.com/dora-zc/vue-wheels/MiniVueRouter
+https://github.com/dora-zc/vue-wheels/tree/master/MiniVueRouter
 
 
 ### 目录结构
