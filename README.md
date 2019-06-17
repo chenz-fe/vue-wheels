@@ -1,5 +1,17 @@
 # vue-wheels
 
+## Vue拖拽组件列表实现动态页面配置
+
+### 需求描述
+
+页面分为左右两部分，通过右边的组件列表来动态配置左边的页面视图，并且左边由组件拼装起来的视图可以实现上下拖拽改变顺序，也可以删除。
+
+根据这个需求我做了下面这个demo。
+
+![Image text](https://raw.githubusercontent.com/dora-zc/vue-draggable-list/master/src/assets/preview.png)
+
+[代码地址](https://github.com/dora-zc/vue-draggable-list)
+
 ## MiniVueRouter
 
 这是一个超级精简版的VueRouter，实现hash模式下，hash改变组件切换的功能，原理就是利用了 Vue.js 的响应式机制触发router-view组件的重新渲染。
